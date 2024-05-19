@@ -1,5 +1,10 @@
 - 👋 Hi, I’m Ukiyo
-- i do frontend, backend, a bit of gameDev and coding mobile apps 
+- my reach:
+```♠️ javaScript ♠️```
+```🎓 Java 🎓```
+```🕹️ C# 🕹️ (mostly Unity)```
+```🧱 HTML - CSS 🧱```
+```🛠️ React-Native 🛠️```
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KousseilaMadi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/KousseilaMadi/github-readme-stats#gh-dark-mode-only)
 <!---
